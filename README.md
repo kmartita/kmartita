@@ -1,5 +1,5 @@
 ## Hi, I'm Marta 👋
-I'm Marta, a Senior AQA Engineer with a solid background in Java and experience in developing test frameworks across various platforms. I thoroughly test web and mobile applications and APIs using structured methodologies. Check out some of my demo frameworks for automation projects listed here.
+I'm Marta, a Senior AQA Engineer with extensive experience in Java and a strong background in developing robust test frameworks for diverse platforms. I specialize in thoroughly testing web and mobile applications, as well as APIs, using structured and efficient methodologies. You can explore some of my demo frameworks for automation projects linked here.
 
 📫 Reach me out!
 
